@@ -66,7 +66,7 @@ https://frankstack.com.ng
 Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/portfolio-gateway.git
+git clone https://github.com/FRANKSTACK1/portfolio-gateway.git
 ```
 
 Open project folder:
@@ -102,7 +102,7 @@ window.location.href = "https://frankstack.com.ng";
 Replace image source inside HTML:
 
 ```html
-<img src="your-image.jpg" alt="Portfolio Preview">
+<img src="image.jpg" alt="Portfolio Preview">
 ```
 
 ### Change colors
